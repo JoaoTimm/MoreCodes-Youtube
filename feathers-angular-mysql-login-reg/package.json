@@ -19,7 +19,7 @@
     "feathers-mongoose": "^8.1.0",
     "feathers-sequelize": "^6.1.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.7.5",
+    "mongoose": "^6.0.4",
     "mysql2": "^2.1.0",
     "nodemon": "^1.19.3",
     "sequelize": "^5.21.3"
