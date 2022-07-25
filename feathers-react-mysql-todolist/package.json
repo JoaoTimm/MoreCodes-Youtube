@@ -17,6 +17,6 @@
     "feathers-sequelize": "^6.1.0",
     "mysql2": "^1.7.0",
     "nodemon": "^1.19.3",
-    "sequelize": "^5.19.6"
+    "sequelize": "^6.21.2"
   }
 }
