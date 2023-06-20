@@ -13,10 +13,10 @@
   "dependencies": {
     "bcrypt": "^3.0.0",
     "hapi": "^17.6.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mysql2": "^1.6.1",
-    "nodemon": "^1.18.4",
-    "npm": "^6.4.1",
-    "sequelize": "^4.39.0"
+    "nodemon": "^2.0.17",
+    "npm": "^7.21.0",
+    "sequelize": "^6.1.0"
   }
 }
