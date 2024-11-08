@@ -16,7 +16,7 @@
     "@feathersjs/socketio": "^4.3.5",
     "feathers-sequelize": "^6.1.0",
     "mysql2": "^1.7.0",
-    "nodemon": "^1.19.3",
+    "nodemon": "^2.0.3",
     "sequelize": "^5.19.6"
   }
 }
