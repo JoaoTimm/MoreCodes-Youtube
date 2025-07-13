@@ -13,10 +13,10 @@
   "dependencies": {
     "@feathersjs/express": "^4.3.5",
     "@feathersjs/feathers": "^4.3.4",
-    "@feathersjs/socketio": "^4.3.5",
+    "@feathersjs/socketio": "^5.0.0",
     "feathers-mongoose": "^8.1.0",
     "feathers-sequelize": "^6.1.0",
     "mongoose": "^5.7.5",
-    "nodemon": "^1.19.3"
+    "nodemon": "^2.0.0"
   }
 }
